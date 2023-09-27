@@ -1,0 +1,15 @@
+C:\Users\fekli\Desktop\control_work\bin\Debug\net7.0\control_work.exe
+C:\Users\fekli\Desktop\control_work\bin\Debug\net7.0\control_work.deps.json
+C:\Users\fekli\Desktop\control_work\bin\Debug\net7.0\control_work.runtimeconfig.json
+C:\Users\fekli\Desktop\control_work\bin\Debug\net7.0\control_work.dll
+C:\Users\fekli\Desktop\control_work\bin\Debug\net7.0\control_work.pdb
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\control_work.csproj.AssemblyReference.cache
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\control_work.AssemblyInfoInputs.cache
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\control_work.AssemblyInfo.cs
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\control_work.csproj.CoreCompileInputs.cache
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\control_work.dll
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\refint\control_work.dll
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\control_work.pdb
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\control_work.genruntimeconfig.cache
+C:\Users\fekli\Desktop\control_work\obj\Debug\net7.0\ref\control_work.dll
